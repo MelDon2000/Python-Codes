@@ -1,3 +1,4 @@
 # Random-Codes
 
-This is Resistor Finder using Python.
+This is Random Codes I made.
+
